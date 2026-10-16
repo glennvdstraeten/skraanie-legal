@@ -14,7 +14,7 @@ Email: skraanie@outlook.com
 
 In these Terms, "we", "us" and "our" refer to the provider above, and "you" refers to the user of the app.
 
-How we handle your personal data is explained in our Privacy Policy: https://github.com/glennvdstraeten/skraanie-legal/blob/main/README.md
+How we handle your personal data is explained in our Privacy Policy: https://glennvdstraeten.github.io/skraanie-legal/PRIVACY
 
 ## 2. Who can use Skraanie
 
