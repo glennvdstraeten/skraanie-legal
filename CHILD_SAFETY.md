@@ -1,37 +1,46 @@
 # Skraanie – Child Safety Standards
 
-**Last updated: 14 October 2026**
+**App:** Skraanie (Google Play package `com.glanie.boitkalender`)
+**Developer:** Glanie (Glenn Van der Straeten), Belgium
+**Last updated: 16 October 2026**
 
-Skraanie strictly prohibits any form of child sexual abuse and exploitation (CSAE).
+## Our standards against child sexual abuse and exploitation (CSAE)
 
-Skraanie is intended for users aged **18 and older**. If we learn that a user is under 18, we will delete the account.
+Skraanie has **zero tolerance** for child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM).
 
-## Prohibited behaviour
+Skraanie is intended for users aged **18 and older**. If we learn that a user is under 18, we delete the account.
 
-Users may not:
+Users of Skraanie may not, in any form (including group names, event titles, event descriptions and usernames):
 
-- share, request or promote child sexual abuse material (CSAM);
-- exploit, endanger or sexualise minors in any way;
-- engage in grooming or any other illegal behaviour involving minors.
+- share, request, distribute or promote child sexual abuse material (CSAM);
+- sexualise, exploit or endanger minors in any way;
+- groom, solicit or attempt to contact minors for sexual purposes;
+- use Skraanie to facilitate any illegal activity involving minors.
 
-## Reporting
+## How to report
 
-You can report concerns directly in the app:
+You can report concerns directly in the app, without leaving it:
 
-- **Report a concern** on your Profile screen;
-- **Report this event** on an event;
-- **Report** next to a group member.
+- **Report a concern** on the Profile screen;
+- **Report this event** on any event;
+- **Report** next to any group member.
 
-You can also email us at **skraanie@outlook.com**.
+You can also report by email to **skraanie@outlook.com**.
 
-In case of immediate danger, call **112**. Concerns about the safety of a child can also be reported to **Child Focus** (Belgium): **116 000**.
+In case of immediate danger to a child, contact the police (**112** in the EU). In Belgium, you can also contact **Child Focus** at **116 000**.
 
-## Enforcement
+## How we act on reports
 
-We review every report. Content and accounts that violate these standards are removed. Where required by law, or where a child's safety is at risk, we report to and cooperate with the competent authorities.
+- We review every report about child safety with priority.
+- Content and accounts that violate these standards are removed immediately and permanently.
+- We report child sexual abuse material and suspected child exploitation to the competent law enforcement authorities, and we cooperate with them, as required by applicable law.
 
-## Contact
+## Child safety contact
 
-For questions about these standards or our child safety practices:
+Our designated contact for child safety matters and for questions about these standards and our CSAM prevention practices:
 
-**Glenn Van der Straeten** – skraanie@outlook.com
+**Glenn Van der Straeten (Glanie)** – skraanie@outlook.com
+
+## Compliance
+
+Skraanie complies with applicable child safety laws and regulations, including those of Belgium and the European Union.
