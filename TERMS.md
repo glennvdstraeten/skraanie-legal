@@ -1,6 +1,6 @@
 # Skraanie – Terms of Service
 
-**Last updated: 14 October 2026**
+**Last updated: 16 October 2026**
 
 ## 1. About these terms
 
@@ -35,6 +35,9 @@ Skraanie is free to use. We do not charge any fees, and there are no in-app purc
 
 - Anyone with a group's invite code can join that group. Only share invite codes with people you want in your group.
 - Members of a group can see the events in that group, who created them, and who is attending.
+- The creator of a group can remove members from the group. A removed member can no longer join that group, not even with the invite code.
+- The creator of a group can delete any event in that group, also events created by other members.
+- You can leave a group at any time.
 - If the creator of a group deletes their account, the group and all events in it are deleted for all members.
 
 ## 6. Your content
