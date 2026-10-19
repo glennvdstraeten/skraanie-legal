@@ -1,6 +1,6 @@
 # Skraanie – Privacy Policy
 
-**Last updated: 14 October 2026**
+**Last updated: 16 October 2026**
 
 ## 1. Who we are
 
@@ -29,6 +29,7 @@ Please note that event titles and descriptions are free text. If you mention oth
 ### 2.2 Data created automatically
 - **Timestamps:** when your account was created, when you joined a group, when you created an event and when you marked attendance.
 - **Technical logs:** when the app communicates with our server, our hosting provider may process technical data such as IP addresses and request details. These are used only to operate and secure the service.
+- **Removals from groups:** if the creator of a group removes you from that group, we store that you are blocked from rejoining it. This is kept until the group or your account is deleted.
 - **Login token on your device:** after you log in, the app stores a login token on your device in encrypted storage, so you stay logged in. This is strictly necessary for the app to work.
 
 ### 2.3 Reports
@@ -44,7 +45,7 @@ We do not collect your phone number, contacts, location, photos or payment data.
 | Creating and managing your account, logging in | Performance of a contract (Art. 6(1)(b)) |
 | Showing your groups, events and attendance to you and the members of your groups | Performance of a contract (Art. 6(1)(b)) |
 | Keeping the service secure and preventing abuse (technical logs) | Legitimate interest (Art. 6(1)(f)) |
-| Handling reports and removing content or accounts that violate our rules | Legitimate interest (Art. 6(1)(f)) and, where required, legal obligations (Art. 6(1)(c)) |
+| Handling reports, removing content or accounts that violate our rules, and letting group creators remove members and events | Legitimate interest (Art. 6(1)(f)) and, where required, legal obligations (Art. 6(1)(c)) |
 
 We do not use your data for marketing, advertising, or profiling, and we do not sell your data.
 
@@ -79,7 +80,7 @@ Deleting your account permanently removes:
 - your account and profile;
 - all groups you created, including all events in those groups (also events created by other members);
 - all events you created in other groups;
-- your attendance and group memberships.
+- your attendance, group memberships and any group blocks involving you.
 
 This cannot be undone.
 
@@ -108,7 +109,7 @@ No system is completely secure. If a data breach occurs that poses a risk to you
 
 ## 10. Children
 
-Skraanie is not intended for anyone under 18. We do not knowingly collect data from minors. If we learn that a user is under 18, we will delete the account.
+Skraanie is not intended for anyone under 18. We do not knowingly collect data from minors. If we learn that a user is under 18, we will delete the account. See also our [Child Safety Standards](CHILD_SAFETY.md).
 
 ## 11. Changes to this policy
 
