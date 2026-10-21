@@ -1,6 +1,6 @@
 # Skraanie – Privacy Policy
 
-**Last updated: 16 October 2026**
+**Last updated: 21 October 2026**
 
 ## 1. Who we are
 
@@ -30,6 +30,7 @@ Please note that event titles and descriptions are free text. If you mention oth
 - **Timestamps:** when your account was created, when you joined a group, when you created an event and when you marked attendance.
 - **Technical logs:** when the app communicates with our server, our hosting provider may process technical data such as IP addresses and request details. These are used only to operate and secure the service.
 - **Removals from groups:** if the creator of a group removes you from that group, we store that you are blocked from rejoining it. This is kept until the group or your account is deleted.
+- **Push notifications:** if you allow notifications, the app sends us a push token for your device, the type of device (Android or iOS) and your time zone, so we can notify you about new events in your groups at the right local time. You can mute notifications per group in **My Groups**, or turn them off in your phone settings. The push token is deleted when you log out or delete your account. We store per group whether you muted it.
 - **Login token on your device:** after you log in, the app stores a login token on your device in encrypted storage, so you stay logged in. This is strictly necessary for the app to work.
 
 ### 2.3 Reports
@@ -44,6 +45,7 @@ We do not collect your phone number, contacts, location, photos or payment data.
 |---|---|
 | Creating and managing your account, logging in | Performance of a contract (Art. 6(1)(b)) |
 | Showing your groups, events and attendance to you and the members of your groups | Performance of a contract (Art. 6(1)(b)) |
+| Sending push notifications about new events in your groups (only if you allow notifications) | Performance of a contract (Art. 6(1)(b)) |
 | Keeping the service secure and preventing abuse (technical logs) | Legitimate interest (Art. 6(1)(f)) |
 | Handling reports, removing content or accounts that violate our rules, and letting group creators remove members and events | Legitimate interest (Art. 6(1)(f)) and, where required, legal obligations (Art. 6(1)(c)) |
 
@@ -57,9 +59,11 @@ We do not use your data for marketing, advertising, or profiling, and we do not 
 
 ## 5. Service providers
 
-- **Render** (Render Services, Inc., United States) hosts our server and database. Your data is stored in Render's **Frankfurt (Germany)** region within the European Union. Render processes the data only on our behalf, under its Data Processing Addendum. If Render needs to access data from outside the EU, for example for support or maintenance, this is protected by the safeguards in that addendum: the EU-U.S. Data Privacy Framework and/or the European Commission's Standard Contractual Clauses, as applicable.
-- **Microsoft** (Outlook.com) receives the reports and requests you send us by email. These messages are forwarded to a mailbox at **Google** (Gmail).
-- **Google** distributes the app through Google Play. Google processes data under its own privacy policy when you download the app.
+- **Render** (Render Services, Inc., United States) hosts our server and database. Your data is stored in Render's **Frankfurt (Germany)** region within the European Union. Render processes the data only on our behalf, under its Data Processing Addendum. If Render needs to access data from outside the EU, for example for support or maintenance, this is protected by the safeguards in that addendum: the EU-U.S. Data Privacy Framework and/or the European Commission's Standard Contractual Clauses, as applicable. [Render Privacy Policy](https://render.com/privacy)
+- **Expo** (650 Industries, Inc., United States) delivers push notifications to your device. To do this it receives your device's push token and the content of the notification (group name, the username of the creator, the event title and date). Expo has self-certified under the EU-U.S. Data Privacy Framework, which protects this transfer to the United States; where required, Expo also uses the European Commission's Standard Contractual Clauses. [Expo Privacy Policy](https://expo.dev/privacy)
+- **Google** (Firebase Cloud Messaging) delivers push notifications to Android devices, and **Apple** (Apple Push Notification service) to iPhones. They receive the push token and the notification content for that purpose. [Privacy and Security in Firebase](https://firebase.google.com/support/privacy) · [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
+- **Microsoft** (Outlook.com) receives the reports and requests you send us by email. These messages are forwarded to a mailbox at **Google** (Gmail). [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) · [Google Privacy Policy](https://policies.google.com/privacy)
+- **Google** distributes the app through Google Play. Google processes data under its own [privacy policy](https://policies.google.com/privacy) when you download the app.
 
 We do not share your data with anyone else, unless we are legally required to (for example at the request of law enforcement authorities).
 
@@ -80,7 +84,7 @@ Deleting your account permanently removes:
 - your account and profile;
 - all groups you created, including all events in those groups (also events created by other members);
 - all events you created in other groups;
-- your attendance, group memberships and any group blocks involving you.
+- your attendance, group memberships, notification settings, push tokens and any group blocks involving you.
 
 This cannot be undone.
 
